@@ -1,0 +1,7 @@
+ID: L004
+Título: Lo que el viento se llevo
+Autor: Margaret Mitchell
+Editorial: Ediciones B
+Fecha Publicación: 1 de Septiembre de 1992
+ISBN: 978-8440632593
+Disponible: True

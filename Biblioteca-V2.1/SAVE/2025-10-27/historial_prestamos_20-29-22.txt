@@ -1,0 +1,41 @@
+====================================================================================================
+HISTORIAL DE PRÉSTAMOS - 27/10/2025 20:29:22
+====================================================================================================
+
+--- PRÉSTAMO #1 ---
+Usuario ID: U001
+Usuario Nombre: Antonia Fuentes Rivera
+Usuario RUT: 17.457.745-0
+Usuario Correo: a.fuentes.rivera@outlook.com
+Usuario Teléfono: 94567123
+
+Libro ID: L001
+Libro Título: Alas de ónix
+Libro Autor: Rebecca Yarros
+Libro ISBN: 978-8408297079
+
+Fecha Préstamo: 27/10/2025 20:28:13
+Estado: 📖 ACTIVO
+
+--- PRÉSTAMO #2 ---
+Usuario ID: U002
+Usuario Nombre: Sabrina Fuente Alba
+Usuario RUT: 17.852.267-7
+Usuario Correo: s.fuente.alba@outlook.com
+Usuario Teléfono: 94567820
+
+Libro ID: L002
+Libro Título: Victorian Psycho
+Libro Autor: Virginia Feito
+Libro ISBN: 978-8426424495
+
+Fecha Préstamo: 27/10/2025 20:28:26
+Fecha Devolución: 27/10/2025 20:29:06
+Estado Devolución: Buen estado
+
+====================================================================================================
+RESUMEN:
+Total de préstamos: 2
+Préstamos activos: 1
+Préstamos devueltos: 1
+====================================================================================================
